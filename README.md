@@ -53,4 +53,12 @@ Os projetos foram desenvolvidos utilizando o software **EasyEDA**. Para fabricar
 Este projeto está sob a licença MIT. Você é livre para utilizar, modificar e distribuir estes projetos, inclusive para fins comerciais, desde que mantenha a atribuição ao autor original. O uso dos projetos é de sua total responsabilidade.
 
 ---
+## Nota de Correção
+
+> [!NOTE]
+> **Correção Importante (Módulo 24V):**  
+> O diodo de roda livre (flyback) presente na versão de 24V DC deve ter sua polaridade **invertida** em relação ao esquemático original.  
+> Essa alteração é necessária para garantir o funcionamento correto do relé e evitar falhas na comutação.
+
+---
 **Desenvolvido por:** Silas Torres Rocha
